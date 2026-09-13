@@ -44,3 +44,9 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+/backend/node_modules
+/backend/env
+k8s.rar
+k8s
+.idea
+webmarket.pem
